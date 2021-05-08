@@ -1,3 +1,3 @@
 web-javascript-Iri25
 
- Issues implemented using HTML and JavaScript.
+ Issues implemented using HTML, CSS and JavaScript.
